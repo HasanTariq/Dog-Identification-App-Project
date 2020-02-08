@@ -8,8 +8,7 @@
 	2. [Installing](#installing)
 	3. [Important Note](#importantnote)
 3. [Authors](#authors)
-4. [License](#license)
-5. [Acknowledgement](#acknowledgement)
+4. [Acknowledgement](#acknowledgement)
 
 <a name="descripton"></a>
 ## Description
